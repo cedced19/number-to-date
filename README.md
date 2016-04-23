@@ -1,6 +1,8 @@
 # number-to-date
 Get a month, a day from a number.
 
+[![Build Status](https://travis-ci.org/cedced19/number-to-date.svg?branch=master)](https://travis-ci.org/cedced19/number-to-date)
+
 ```bash
 npm install --save number-to-date
 ```
