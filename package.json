@@ -1,0 +1,28 @@
+{
+  "name": "number-to-date",
+  "version": "0.0.0",
+  "description": "Get a month, a day from a number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedced19/number-to-date.git"
+  },
+  "keywords": [
+    "month",
+    "day",
+    "number",
+    "date"
+  ],
+  "author": "Cédric JUNG <cedced19@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cedced19/number-to-date/issues"
+  },
+  "homepage": "https://github.com/cedced19/number-to-date#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
